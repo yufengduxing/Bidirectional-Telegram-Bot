@@ -50,8 +50,8 @@
 ### 3️⃣ 克隆项目
 
 ```bash
-git clone https://github.com/yufengduxing/telegram-forward-bot.git
-cd telegram-forward-bot
+git clone https://github.com/yufengduxing/Bidirectional-Telegram-Bot.git
+cd Bidirectional-Telegram-Bot
 ```
 
 ### 4️⃣ 配置
