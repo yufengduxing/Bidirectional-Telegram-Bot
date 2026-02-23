@@ -187,8 +187,8 @@ telegram-forward-bot/
 **第 14-15 行 - 必须修改：**
 
 ```python
-ADMIN_ID = 7358821097  # 你的 Telegram User ID
-BOT_TOKEN = "8540883418:AAEmT-gA9Yw160Jg_mKR-l36Kdp_ESZaPFM"  # 你的 Bot Token
+ADMIN_ID = 123456789  # 你的 Telegram User ID
+BOT_TOKEN = "123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefg"  # 你的 Bot Token
 ```
 
 **日志配置 - 可选修改：**
