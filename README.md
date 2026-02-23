@@ -59,8 +59,8 @@ cd telegram-forward-bot
 编辑 `tg_bot.py`，修改第 14-15 行：
 
 ```python
-ADMIN_ID = 你的User_ID                           # 例如: 123456789
-BOT_TOKEN = "你的Bot_Token"                      # 例如: 123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefg
+ADMIN_ID = 123456789                                                           # 例如: 123456789
+BOT_TOKEN = "123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefg"                      # 例如: 123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefg
 ```
 
 ### 5️⃣ 安装依赖
