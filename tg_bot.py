@@ -17,8 +17,8 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # ==================== 配置 ====================
-ADMIN_ID = 7358821097  # 改成你的 User ID
-BOT_TOKEN = "8540883418:AAEmT-gA9Yw160Jg_mKR-l36Kdp_ESZaPFM"  # 改成你的 Bot Token
+ADMIN_ID = 123456789  # 改成你的 User ID
+BOT_TOKEN = "123456789:AAEmT-gA9Yw160Jg_mKR-l36Kdp_ESZaPFM"  # 改成你的 Bot Token
 
 # ==================== 命令处理器 ====================
 
