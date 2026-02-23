@@ -418,4 +418,3 @@ top -p $(pgrep -f tg_bot.py)
 
 **⭐ 如果这个项目对你有帮助，请给个 Star！**
 
-**🐛 发现 Bug？请提交 [Issue](https://github.com/yufengduxing/telegram-forward-bot/issues)**
