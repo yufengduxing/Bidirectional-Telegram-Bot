@@ -400,7 +400,7 @@ top -p $(pgrep -f tg_bot.py)
 
 - GitHub: [https://github.com/yufengduxing](https://github.com/yufengduxing)
 - Telegram: [https://t.me/yufeng_duxing](https://t.me/yufeng_duxing))
-- Email: your.email@example.com
+- Email: yufengduxing@gmail.com
 
 ## ⭐ 致谢
 
@@ -418,4 +418,4 @@ top -p $(pgrep -f tg_bot.py)
 
 **⭐ 如果这个项目对你有帮助，请给个 Star！**
 
-**🐛 发现 Bug？请提交 [Issue](https://github.com/yourusername/telegram-forward-bot/issues)**
+**🐛 发现 Bug？请提交 [Issue](https://github.com/yufengduxing/telegram-forward-bot/issues)**
