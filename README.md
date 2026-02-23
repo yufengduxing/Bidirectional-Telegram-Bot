@@ -59,6 +59,8 @@ cd Bidirectional-Telegram-Bot
 编辑 `tg_bot.py`，修改第 14-15 行：
 
 ```python
+nano tg_bot.py
+
 ADMIN_ID = 123456789                                                           # 例如: 123456789
 BOT_TOKEN = "123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefg"                      # 例如: 123456789:ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefg
 ```
