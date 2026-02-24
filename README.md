@@ -398,8 +398,6 @@ top -p $(pgrep -f tg_bot.py)
 
 本项目采用 MIT License - 详见 [LICENSE](LICENSE) 文件
 
-## 📞 联系方式
-
 ### 机场推荐：
 - 曙光云：https://dawnscloud.com
 - 超实惠：https://cshjc.net
@@ -409,7 +407,7 @@ top -p $(pgrep -f tg_bot.py)
 ### VPS推荐：
 - OCI：https://oci.ee
 
-## 
+## 📞 联系方式
 
 - TG群组：https://t.me/yufeng_duxing
 - 定制联系：https://t.me/martsccbot
