@@ -400,13 +400,19 @@ top -p $(pgrep -f tg_bot.py)
 
 ## 📞 联系方式
 
-- 机场推荐：https://dawnscloud.com
-- VPS推荐：https://oci.ee
 - 定制联系：https://t.me/martsccbot
 - 博客：https://yufengduxing.xyz/
 - GitHub: [https://github.com/yufengduxing](https://github.com/yufengduxing)
 - Telegram: [https://t.me/yufeng_duxing](https://t.me/yufeng_duxing)
 - Email: yufengduxing@gmail.com
+- 机场推荐：
+- 曙光云：https://dawnscloud.com
+- 超实惠：https://cshjc.net
+- VPS推荐：
+- OCI：https://oci.ee
+
+## 
+
 
 ## ⭐ 致谢
 
