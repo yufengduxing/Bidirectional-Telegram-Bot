@@ -401,7 +401,7 @@ top -p $(pgrep -f tg_bot.py)
 ## 📞 联系方式
 
 - GitHub: [https://github.com/yufengduxing](https://github.com/yufengduxing)
-- Telegram: [https://t.me/yufeng_duxing](https://t.me/yufeng_duxing))
+- Telegram: [https://t.me/yufeng_duxing](https://t.me/yufeng_duxing)
 - Email: yufengduxing@gmail.com
 
 ## ⭐ 致谢
