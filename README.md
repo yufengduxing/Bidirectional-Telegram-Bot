@@ -384,7 +384,7 @@ ps aux | grep tg_bot.py
 top -p $(pgrep -f tg_bot.py)
 ```
 
-## 🤝 贡献指南
+### 🤝 贡献指南
 
 欢迎提交 Pull Request！
 
@@ -394,7 +394,7 @@ top -p $(pgrep -f tg_bot.py)
 4. 推送到分支 (`git push origin feature/AmazingFeature`)
 5. 开启一个 Pull Request
 
-## 📝 许可证
+### 📝 许可证
 
 本项目采用 MIT License - 详见 [LICENSE](LICENSE) 文件
 
@@ -415,7 +415,7 @@ top -p $(pgrep -f tg_bot.py)
 
 ##
 
-## 📞 联系方式
+### 📞 联系方式
 
 - TG群组：https://t.me/yufeng_duxing
 - 定制联系：https://t.me/martsccbot
